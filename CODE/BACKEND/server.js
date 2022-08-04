@@ -26,7 +26,7 @@ connection.once("open", ()=>{
 
 //const ItemRouter = require("./routes/itemRoutes.js");
 
-http://localhost:8070/item
+//http://localhost:8070/item
 
 //app.use("/item" , ItemRouter);
 
